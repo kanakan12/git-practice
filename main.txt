@@ -1,2 +1,0 @@
-Titel: Git Practice
-Subtitle: git test
